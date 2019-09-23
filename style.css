@@ -1,0 +1,31 @@
+#input{
+    border-radius: 30px;
+    width: 15%;
+}
+
+#input1{
+    border-radius: 30px;
+    width: 15%;
+}
+
+#input2{
+    border-radius: 30px;
+    width: 15%;
+}
+
+#input3{
+    border-radius: 30px;
+    width: 15%;
+}
+
+#but{
+    border-radius: 30px;
+    width: 15%;
+}
+textarea{
+    border-width: 3px;
+    border-color: red;
+}
+textarea:focus{
+    border-color: green;
+}
